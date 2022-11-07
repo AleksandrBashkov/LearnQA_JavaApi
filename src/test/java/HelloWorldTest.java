@@ -12,4 +12,3 @@ public class HelloWorldTest {
         response.prettyPrint();
     }
 }
-//git config --global user.email "banjet@inbox.ru" git config --global user.name "Aleksandr Bashkov"
